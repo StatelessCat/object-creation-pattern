@@ -1,0 +1,19 @@
+{
+  "name": "object-creation-pattern",
+  "version": "0.0.1",
+  "homepage": "",
+  "authors": [
+    "Raphael Cazenave-Leveque <raphael.cazenave@gmail.com>"
+  ],
+  "description": "object-creation-pattern",
+  "keywords": [
+    "polymer",
+    "webcomponents",
+    "javascript",
+    "traces"
+  ],
+  "license": "GPL-2.0",
+  "ignore": [],
+  "dependencies": {
+  }
+}
